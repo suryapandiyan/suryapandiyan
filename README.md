@@ -1,6 +1,6 @@
 
  
- ![Alt Text]( https://tenor.com/view/programming-gif-25868426)
+ ( https://tenor.com/view/programming-gif-25868426)
 
 
    
