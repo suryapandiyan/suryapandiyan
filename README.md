@@ -1,7 +1,8 @@
 
  
+![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/0d1af296-bff6-433f-ae0d-d808cd84518e)
 
-         ![Alt Text] (https://iconscout.com/lottie/female-developer-working-on-laptop-9059573)
+   
 
 
 
