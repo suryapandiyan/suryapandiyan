@@ -7,12 +7,6 @@
 
 
 
-
-
-
-
-
-
 - 👋 Hi, I’m @suryapandiyan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack development in Guvi
