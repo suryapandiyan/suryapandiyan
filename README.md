@@ -1,5 +1,6 @@
 
-![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/9912ca7f-0991-47ae-ba77-77ec8fe16cfe)
+ https://github.com/yourusername/your-repo-name/raw/main/images/your-image.png
+
 
 
 
