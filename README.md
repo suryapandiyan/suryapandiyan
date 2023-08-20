@@ -1,6 +1,6 @@
 
  
- ![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/ed9cafc5-ab5e-40e7-be99-b66405f564ac)
+ ![Viedo](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/ed9cafc5-ab5e-40e7-be99-b66405f564ac)
 
 
    
