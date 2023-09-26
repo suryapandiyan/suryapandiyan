@@ -15,5 +15,3 @@
 - 📫 How to reach me  mail me:surya.surya256@gmail.com
 
  
- 💻 Tech Stack:
-HTML5 CSS3 JavaScript Bootstrap React NodeJS Express.js SASS MongoDB MySQL Netlify Django Redux AWS
