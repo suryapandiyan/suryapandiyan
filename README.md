@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/191c9a01-ed59-4c80-82bf-5d7247cd6316)
+![image]( https://media.giphy.com/media/xWZcSbk7pAtP2HhXHV/giphy.gif)
 
 # 💫 About Me:
 👋 Hi, I'm @suryapandiyan<br><br>👀 always focusing on my career growth to achieve something<br><br>🌱 currently, MERN full stack developer<br><br>💞️ I am actively seeking collaboration with a distinguished software enterprise that provides a dynamic and competitive milieu conducive to the augmentation of my skills. A paramount objective of mine is to bolster the organization's operational efficiency by identifying and mitigating inefficiencies.<br><br>📫 How to reach me: mail me surya.surya256@gmail.com
