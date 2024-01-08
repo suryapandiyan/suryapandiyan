@@ -16,6 +16,7 @@
 - 📫 How to reach me:  mail me   surya.surya256@gmail.com
 
   🌐 Socials:
+  
   ![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/011a6198-6732-47ec-a67e-01357c295b57)
 
 
@@ -26,12 +27,7 @@
 
 📊 GitHub Stats:
 
-![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/64163df2-1f4f-41dd-af05-5bea71aeea14)
-
-![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/20b5ad19-ec47-4593-b54e-c0bd0e676436)
-
-
-
+ ![suryapandiyan github stats](https://github-readme-stats.vercel.app/api?username= suryapandiyan)
 
 
 
