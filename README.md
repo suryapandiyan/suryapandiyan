@@ -27,7 +27,8 @@
 
 📊 GitHub Stats:
 
- ![suryapandiyan github stats](https://github-readme-stats.vercel.app/api?username= suryapandiyan)
+ ![suryapandiyan github stats](https://github-readme-stats.vercel.app/api?username=suryapandiyan)
+
 
 
 
