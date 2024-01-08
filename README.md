@@ -25,7 +25,9 @@
 
 
 📊 GitHub Stats:
+
 ![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/64163df2-1f4f-41dd-af05-5bea71aeea14)
+
 ![image](https://github.com/suryapandiyan/suryapandiyan/assets/130633446/20b5ad19-ec47-4593-b54e-c0bd0e676436)
 
 
